@@ -1,4 +1,4 @@
-# logfmt-event
+# logfmt-event v1.2.0
 
 This is a simple go package that will format data into a logfmt standard. Uses RFC 3339 standard for time.
 
